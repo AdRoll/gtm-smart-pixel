@@ -10,6 +10,7 @@ ___INFO___
 
 {
   "displayName": "AdRoll Smart Pixel - Official",
+  "categories": ["ADVERTISING"],
   "description": "The AdRoll Pixel tag helps advertisers to use their site data in conjunction with the AdRoll platform. Visit adroll.com to learn more.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
