@@ -17,8 +17,8 @@ This repository contains the GTM template for: AdRoll Smart Pixel - Official.
 1. Click Trigger Configuration.
 2. Select an existing trigger that fires on All DOM Ready Events with Page View - DOM Ready trigger type.
 3. If you don't have this trigger available, create a new one from scratch:
-4. Click the + icon on the top right corner
-5. Name your trigger All Page View - DOM Ready Events Trigger
+4. Click the + icon on the top right corner.
+5. Name your trigger All Page View - DOM Ready Events Trigger.
 6. Under Choose a Trigger Type click DOM Ready in Page View.
 7. Select All DOM Ready Events.
 8. Save.
